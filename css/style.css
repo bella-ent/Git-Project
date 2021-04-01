@@ -15,7 +15,7 @@ header {
   box-shadow: 0px 13px 10px 0px rgba(144, 144, 144, 0.55);
 }
 
-section {
+.png section {
   width: 70%;
   margin: 0 auto;
 }
@@ -142,7 +142,7 @@ section {
 
 /* ? Hover effect */
 .handyout:hover {
-  background-image: url(./img/trianglify-lowres.png);
+  background-image: url(/img/trianglify-lowres.png);
   -webkit-box-shadow: 19px 8px 16px 6px rgba(144, 144, 144, 0.84);
   box-shadow: 19px 8px 16px 6px rgba(144, 144, 144, 0.84);
 }
